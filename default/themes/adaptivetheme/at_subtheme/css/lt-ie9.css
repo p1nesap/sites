@@ -1,0 +1,33 @@
+/* set variables, nest elements */
+/* line 8, ../sass/_custom.scss */
+#content h1 {
+  font-size: 1.5em;
+  color: #993366;
+}
+/* line 12, ../sass/_custom.scss */
+#content p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  line-height: 1.5em;
+}
+/* line 18, ../sass/_custom.scss */
+#content ul {
+  padding-top: 14px;
+}
+/* line 22, ../sass/_custom.scss */
+#content li {
+  color: #993366;
+  margin-bottom: 12px;
+}
+
+/*
+ * Target IE 6, 7 and 8 (less than IE9)
+ */
+/*
+ * Assuming a mobile first approach with respond.js OFF, we must reset the font
+ * size for lt IE9
+ */
+/* line 13, ../sass/lt-ie9.scss */
+html {
+  font-size: 81.3%;
+}

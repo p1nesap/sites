@@ -1,0 +1,21 @@
+/* set variables, nest elements */
+/* line 8, ../sass/drupal.scss */
+#content h1 {
+  font-size: 1.5em;
+  color: #993366;
+}
+/* line 12, ../sass/drupal.scss */
+#content p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  line-height: 1.5em;
+}
+/* line 18, ../sass/drupal.scss */
+#content ul {
+  padding-top: 14px;
+}
+/* line 22, ../sass/drupal.scss */
+#content li {
+  color: #993366;
+  margin-bottom: 12px;
+}

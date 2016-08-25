@@ -1,0 +1,31 @@
+/* set variables, nest elements */
+/* line 8, ../sass/_custom.scss */
+#content h1 {
+  font-size: 1.5em;
+  color: #993366;
+}
+/* line 12, ../sass/_custom.scss */
+#content p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  line-height: 1.5em;
+}
+/* line 18, ../sass/_custom.scss */
+#content ul {
+  padding-top: 14px;
+}
+/* line 22, ../sass/_custom.scss */
+#content li {
+  color: #993366;
+  margin-bottom: 12px;
+}
+
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete 
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
